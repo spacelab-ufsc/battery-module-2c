@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Users\Yan Azeredo\Desktop\SpaceLab\battery-module-2c\.\fabrication\Pick Place for board_layout.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/03/21
+Time:       10:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                       Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                                      
+Battery_1  Holder_battery_18650          TopLayer    BATTERY_18650   3530.000      2730.827      90       "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+Battery_2  Holder_battery_18650          TopLayer    BATTERY_18650   4655.000      2729.173      270      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
+P1         "Header 5X2H_IPT1-105-01-L-D" BottomLayer IPT1-105-01-L-D 3003.000      2465.000      90       "Header, 5-Pin, Dual row, Right Angle"                                           
