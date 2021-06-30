@@ -1,2 +1,3 @@
-Layer Pairs Export File for PCB: C:\Users\Yan Azeredo\Desktop\SpaceLab\battery-module-2c\sources\board_layout.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=board_layout.txt|DrillLayers=gtl,gbl
+Layer Pairs Export File for PCB: C:\Users\Sidney&Viviane\Documents\Andre\GitHub\battery-module-2c\sources\board_layout.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=board_layout-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=board_layout-slotholes.txt|DrillLayers=gtl,gbl

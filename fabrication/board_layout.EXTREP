@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: board_layout.GBR   3/21/2021  10:18:55 AM
+Gerber File Extension Report For: board_layout.GBR   29/06/2021  22:45:17
 ------------------------------------------------------------------------------------------
 
 
@@ -15,5 +15,6 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GKO                Keep-Out Layer                          
 .GD1                Drill Drawing                           
 ------------------------------------------------------------------------------------------

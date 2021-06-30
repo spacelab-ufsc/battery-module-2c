@@ -1,16 +1,19 @@
 Altium Designer Pick and Place Locations
-C:\Users\Yan Azeredo\Desktop\SpaceLab\battery-module-2c\.\fabrication\Pick Place for board_layout.txt
+C:\Users\Sidney&Viviane\Documents\Andre\GitHub\battery-module-2c\.\fabrication\Pick Place for board_layout.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       21/03/21
-Time:       10:18
-Revision:   Not in VersionControl
+Date:       29/06/21
+Time:       22:45
+Revision:   9b6b2e1f31bdc9977e47b420ae762d39b17c1d65
 Variant:    No variations
 Units used: mil
 
-Designator Comment                       Layer       Footprint       Center-X(mil) Center-Y(mil) Rotation Description                                                                      
-Battery_1  Holder_battery_18650          TopLayer    BATTERY_18650   3530.000      2730.827      90       "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-Battery_2  Holder_battery_18650          TopLayer    BATTERY_18650   4655.000      2729.173      270      "Cylindrical Battery Contacts, Clips, Holders & Springs 16-19mm PC BATTERY CLIP" 
-P1         "Header 5X2H_IPT1-105-01-L-D" BottomLayer IPT1-105-01-L-D 3003.000      2465.000      90       "Header, 5-Pin, Dual row, Right Angle"                                           
+Designator Comment        Layer       Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                       
+RTD2       32207595       BottomLayer THRMC3216X70N                   1253.000      1135.000      0        "1 kOhms RTD Platinum (Pt) ±0.3% 3850ppm/°C 1206 (3216 Metric)"                   
+RTD1       32207595       BottomLayer THRMC3216X70N                   1253.000      1691.000      0        "1 kOhms RTD Platinum (Pt) ±0.3% 3850ppm/°C 1206 (3216 Metric)"                   
+J_EPS      67996-110HLF   TopLayer    HDRV10W64P254_2X5_1270X502X521P 162.000       1149.000      90       "Headers & Wire Housings 2X5P UNSHRD HDR 30 microinch gold"                       
+JHeater    0532610871     TopLayer    PICOBLADE_8PIN_RIGHT_ANGLE      2248.000      1754.000      90       "PicoBlade 8 Position Right Angle Connector Header Surface Mount 0.049" (1.25mm)" 
+J_RTD      0532610871     TopLayer    PICOBLADE_8PIN_RIGHT_ANGLE      257.000       1754.000      270      "PicoBlade 8 Position Right Angle Connector Header Surface Mount 0.049" (1.25mm)" 
+Heater     RS02B24R00FE12 BottomLayer RESAD3322W86L1422D475           1256.000      1406.457      90       "Wirewound Resistors - Through Hole 3watts 24ohms 1%"                             
